@@ -1,5 +1,5 @@
 
-# First Year C Programs
+# PPS-Codes
 
 This repository contains basic C programming exercises and assignments commonly covered in the first year of engineering
 ## Contents
