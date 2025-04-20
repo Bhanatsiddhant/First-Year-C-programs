@@ -7,13 +7,14 @@
 #include<stdio.h>
 int main()
 {
-int num1,num2,sum,avg;
+int num1,sum;
+float num2,avg;
 printf("Enter first number:\t");
 scanf("%d",&num1);
 printf("\nEnter second number:\t");
-scanf("%d",&num2);
+scanf("%f",&num2);
 sum = num1+num2;
 avg = sum/2;
-printf("\nThe average of the given number is %d",avg);
+printf("\nThe average of the given number is %f",avg);
 return 0;
 }
