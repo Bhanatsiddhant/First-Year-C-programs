@@ -7,8 +7,8 @@
 #include<stdio.h>
 int main()
 {
-int num1,sum;
-float num2,avg;
+int num1;
+float num2,sum,avg;
 printf("Enter first number:\t");
 scanf("%d",&num1);
 printf("\nEnter second number:\t");
