@@ -51,7 +51,7 @@ This repository contains fundamental C programming examples. These programs cove
   ./output
   ```
 
-🌟 About
+## 🌟 About
 
 This collection was developed by Siddhant Bhanat (@[BhanatSiddhant](https://github.com/Bhanatsiddhant)) as part of my PPS learning journey in First Year ENTC at DBATU, Lonere.
 
